@@ -15,7 +15,6 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
----
 
 ## 🚀 About Me
 
