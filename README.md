@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://www.linkedin.com/in/gaurav-kakde-57235b312/"/>
   </a>
   <a href="YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
